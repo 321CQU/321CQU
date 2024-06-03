@@ -1,4 +1,4 @@
-![@321CQU](https://avatars.githubusercontent.com/u/143437390?s=200&v=4)
+<img src="https://saladday-figure-bed.oss-cn-chengdu.aliyuncs.com/img/202406031629855.png" alt="@321CQU" style="zoom:150%;align=center" />
 
 - [什么是321CQU](#什么是321CQU)
   - [体验一下](#体验一下)
@@ -22,9 +22,11 @@
 
 
 
-![image-20240603160156130](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240603160156130.png)
+![image-20240603160156130](https://saladday-figure-bed.oss-cn-chengdu.aliyuncs.com/img/202406031629963.png)
 
 其中，各个微服务之间以及API_Gateway与微服务之间以grpc连接，API_Gateway对API提供统一入口。
+
+
 
 ## 开发文档
 
