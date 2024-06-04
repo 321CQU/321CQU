@@ -18,7 +18,7 @@
 
 打开微信，搜索“321CQU”或扫码。
 
-![img](file:///C:\Users\Administrator\Documents\Tencent Files\1203511142\Image\C2C\38132adc2e06b8e657ff43697268a36d.jpg)
+![img](https://saladday-figure-bed.oss-cn-chengdu.aliyuncs.com/img/202406041735956.jpg)
 
 ## 技术架构
 
