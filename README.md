@@ -1,4 +1,4 @@
-<img src="https://saladday-figure-bed.oss-cn-chengdu.aliyuncs.com/img/202406031629855.png" alt="@321CQU" style="zoom:150%;align=center" />
+<div align=center><img src="https://saladday-figure-bed.oss-cn-chengdu.aliyuncs.com/img/202406031629855.png" alt="@321CQU" style="zoom:150%" /></div>
 
 - [什么是321CQU](#什么是321CQU)
   - [体验一下](#体验一下)
@@ -16,7 +16,9 @@
 
 ### 体验一下
 
-打开微信，搜索“321CQU”
+打开微信，搜索“321CQU”或扫码。
+
+![img](file:///C:\Users\Administrator\Documents\Tencent Files\1203511142\Image\C2C\38132adc2e06b8e657ff43697268a36d.jpg)
 
 ## 技术架构
 
